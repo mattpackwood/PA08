@@ -1,8 +1,6 @@
-/*
- * Computer PA08
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
  *
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
- * Use inheritance concepts to extend another computer class from the base 
+ * PA08: Use inheritance concepts to extend another computer class from the base 
  * model class created in PA07.  The new computer is the base model with no
  * keyboard, a track ball instead of a mouse, a different color and new CPU
  * features: a standard ZIP drive, speakers, microphone and an optional
